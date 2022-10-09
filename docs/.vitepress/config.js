@@ -19,7 +19,10 @@ export default {
         },
         {
           text: 'Components',
-          items: [{ text: 'Icons', link: '/components/icon' }],
+          items: [
+            { text: 'Icons', link: '/components/icon' },
+            { text: 'Cards', link: '/components/card' },
+          ],
         },
       ],
     },
