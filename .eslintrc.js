@@ -31,5 +31,6 @@ module.exports = {
         bracketSameLine: true,
       },
     ],
+    'vue/require-default-prop': ignore,
   },
 };
